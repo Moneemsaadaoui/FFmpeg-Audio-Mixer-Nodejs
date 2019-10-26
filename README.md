@@ -1,8 +1,8 @@
 # FFmpeg-Audio-Mixer-Nodejs
-a small nodejs script to recieve , mix , encode and return MP3 and AAC files
+A small Nodejs script to recieve , mix , encode and return MP3 and AAC files
 
 # How to use :
-  1-Clone this rep
+  1-Clone this repo
   2-install dependecies using : npm install
   3-run the server using : node server.js (while in the right directory)
   
