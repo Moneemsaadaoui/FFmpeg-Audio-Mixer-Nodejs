@@ -4,7 +4,7 @@ a small nodejs script to recieve , mix , encode and return MP3 and AAC files
 # How to use :
   1-Clone this rep
   2-install dependecies using : npm install
-  3-run the server using : node server.js (while in the right directory)
+  3-run the server using : node index.js (while in the right directory)
   
   4-Launch postman , set the address to http://localhost:9000/upload
   5-Set to POST

@@ -68,6 +68,7 @@ app.post("/upload", async function(req, res) {
     console.log("File uploaded!");
   });
 });
-app.listen(9000, () => {
-  console.log("Listening");
+const port = 9000
+app.listen(port, () => {
+  console.log(`Listening on port ${port}`);
 });
